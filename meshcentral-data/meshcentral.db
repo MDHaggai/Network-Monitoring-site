@@ -1,0 +1,12 @@
+{"$$indexCreated":{"fieldName":"type","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"domain","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"meshid","unique":false,"sparse":true}}
+{"$$indexCreated":{"fieldName":"nodeid","unique":false,"sparse":true}}
+{"$$indexCreated":{"fieldName":"email","unique":false,"sparse":true}}
+{"_id":"DatabaseIdentifier","value":"f02c6bc1713ed0e6451168d193be1c5cc6bf98cbdeacaa207108e2d1d80012db1f2b12127512dd3a1a3fd5a7e0a93a5d"}
+{"_id":"SchemaVersion","value":2}
+{"_id":"dbconfig","version":1,"amtWsEventSecret":"e32fb06c5a2af996efbf37eb4177043a0911cf7d061372728aaf70aee4a95431"}
+{"_id":"LoginCookieEncryptionKey","key":"d51646997971bdf447204e929429ebc39ef83d0db7ab58bd108b8f0fde1fe715837b2e467b29e1ee1d154d62da816ef7727847952c1ac13bab81ce3c02367f2ac5e6ac389a62b8d87083b9e7dc76ce84","time":1720055937320}
+{"_id":"InvitationLinkEncryptionKey","key":"41cb0c37c7ec887dbeba1095310a8a28be9d2c4c2777508f17c81be56629758a192f8da880170d7ff71643c695311490d1239ab9e1a4dba82f6f92747a36346811d8c34ceb21f37952f03a06618dc053","time":1720055937324}
+{"type":"user","_id":"user//admin","name":"admin","email":"haggairameni@gmail.com","creation":1720057033,"login":1720057033,"access":1720057033,"domain":"","siteadmin":4294967295,"salt":"n7jBpbVZyz7pE9DDgqiEnSgXeTUlwVeDLe8xIruChww2iYdOrFsh86y3pdpPw0eEwC4V5XLtrYp1qTzKHQusb3ahZpKXpgVnMLuw03M2uEDOmeteZ1VgaBOgsJQ4gM8G9aDIT0RO815+BAm6kJDvh0lVaxEatLlFplEsfrTgHg0=","hash":"973VEjsYH/7yW+urmeC68ln+qULoXu6viXXt2NSrURe2cYlcv9wLZKF5RnqnipTOG7Hy6muVC3PAAyQ6O1bnAji/cE/OlrDnO0u+447Jl+0cjPudZl0FlYc91SPyvYvocnB7m+ILDTKAoc0InBZ77GRlKBLlriy+6Goinvo3UCw="}
+{"_id":"wsuser//admin","state":"{\"showRealNames\":\"1\",\"sort\":\"0\"}"}
